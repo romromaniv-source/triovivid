@@ -23,4 +23,4 @@ We may update this Privacy Policy from time to time if new features are added to
 ## 5. Contact Us
 If you have any questions or suggestions about this Privacy Policy, please contact us at:
 
-**Email:** [ruslan.kharchenko.dev@gmail.com](mailto:ruslan.kharchenko.dev@gmail.com)
+**Email:** [makar.honhalskyi.dev@gmail.com](mailto:makar.honhalskyi.dev@gmail.com)
